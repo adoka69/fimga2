@@ -1,6 +1,8 @@
 # fimga2
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/63843401/150835986-f03c6715-5cde-43b8-ae64-b00d2ec947ac.png)
+
 
 ## Getting Started
 
